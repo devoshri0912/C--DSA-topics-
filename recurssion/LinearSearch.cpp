@@ -1,4 +1,4 @@
-//find if the entered key exists in the given array using recursion
+//find if the entered key exists in the given array using recursion (linear search)
 #include<bits/stdc++.h>
 using namespace std;
 bool found(int size,int arr[],int k)
